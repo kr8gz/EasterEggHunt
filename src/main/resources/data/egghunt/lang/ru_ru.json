@@ -1,0 +1,23 @@
+{
+  "command.egghunt.leaderboard.entry.multiple": "%s нашёл %s яиц",
+  "command.egghunt.leaderboard.entry.single": "%s нашёл %s яйцо",
+  "command.egghunt.leaderboard.label": "Таблица лидеров",
+  "command.egghunt.leaderboard.no_eggs": "До сих пор не найдено ни одного яйца...",
+  "command.egghunt.progress.found.multiple": "Вы нашли все %s яиц! (%s)",
+  "command.egghunt.progress.found.single": "Вы нашли единственное яйцо! (%s)",
+  "command.egghunt.progress.multiple": "Вы нашли %s из %s яиц (%s)",
+  "command.egghunt.progress.no_eggs": "Нет яиц, которые можно было бы найти... пока что!",
+  "command.egghunt.progress.percentage": "%s%%",
+  "command.egghunt.progress.single": "Вы не нашли яйцо! (%s)",
+  "command.egghunt.reset.eggs.multiple": "Убрано %s яиц",
+  "command.egghunt.reset.eggs.single": "Убрано 1 яйцо",
+  "command.egghunt.reset.player.multiple": "Сброс найденных яиц у %s игроков",
+  "command.egghunt.reset.player.single": "Сброс найденных яиц для %s",
+  "egghunt.egg.found": "Вы нашли яйцо!",
+  "egghunt.egg.found.all": "Вы нашли все яйца!",
+  "egghunt.egg.found.already": "Вы уже нашли это яйцо!",
+  "egghunt.egg.placed": "Яйцо #%s размещено!",
+  "egghunt.egg.removed": "Яйцо удалено!",
+  "egghunt.egg.removed.forbidden": "У вас нет разрешения на удаление яиц!",
+  "egghunt.item.name": "Пасхальное яйцо"
+}
